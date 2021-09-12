@@ -1,0 +1,3 @@
+Daniel;Daniel;50;Daniel;50;Ingenieria
+Juan;Juan;30;Juan;30;Salud
+Yady;Yady;40;Yady;40;Administrativa
